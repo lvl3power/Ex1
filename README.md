@@ -1,2 +1,10 @@
 # Ex1
-primeiro exercício
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	A minha turma é linda
+</body>
+</html>
