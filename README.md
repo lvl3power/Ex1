@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Bom dia</title>
 </head>
 <body>
 	A minha turma é linda
